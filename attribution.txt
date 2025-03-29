@@ -1,4 +1,5 @@
-[Kajackdfw]
-[kajackdfw]
-[Apache-2.0]
-[kajackdfw]
+Title of work: Remix Framework
+Link to work: https://remix.run
+Revision: https://remix.run/resources
+License of the work: Apache-2
+Creator names: MJackson
